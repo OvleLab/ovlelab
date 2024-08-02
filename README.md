@@ -1,4 +1,5 @@
 # Ovle Lab
+![Ovle Lab Logo](./logo.png)
 
 Welcome to **Ovle Lab** ⚙️🔮, your gateway to the future of blockchain technology. At Ovle Lab, we bridge the gap between innovative blockchain projects and the community by providing comprehensive details and insights into emerging technologies. Our mission is to empower blockchain users, developers, and enthusiasts with the knowledge and tools they need to participate, contribute, and thrive in the decentralized world.
 
